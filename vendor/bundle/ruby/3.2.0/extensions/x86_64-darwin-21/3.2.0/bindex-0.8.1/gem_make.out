@@ -1,0 +1,19 @@
+current directory: /Users/tanabeyoshihiro/RailsProjects/rails_tutrial/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/tanabeyoshihiro/.rbenv/versions/3.2.1/bin/ruby -I /Users/tanabeyoshihiro/.rbenv/versions/3.2.1/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/tanabeyoshihiro/RailsProjects/rails_tutrial/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230223-5308-9k9ls2 sitelibdir\=./.gem.20230223-5308-9k9ls2 clean
+
+current directory: /Users/tanabeyoshihiro/RailsProjects/rails_tutrial/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230223-5308-9k9ls2 sitelibdir\=./.gem.20230223-5308-9k9ls2
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/tanabeyoshihiro/RailsProjects/rails_tutrial/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230223-5308-9k9ls2 sitelibdir\=./.gem.20230223-5308-9k9ls2 install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230223-5308-9k9ls2/skiptrace/internal
+
+current directory: /Users/tanabeyoshihiro/RailsProjects/rails_tutrial/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230223-5308-9k9ls2 sitelibdir\=./.gem.20230223-5308-9k9ls2 clean
